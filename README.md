@@ -1,2 +1,2 @@
 # creditRating
-Factors contribute to credit scores
+Factors contributing to credit scores
